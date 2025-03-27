@@ -13,10 +13,6 @@
     align-items: center;
 }
 
-.logo {
-    margin-right: auto;
-}
-
 ul {
     list-style: none;
     padding: 0;
@@ -27,7 +23,11 @@ ul {
 }
 
 li {
-    text-decoration: none;
     color: #E5E7EB;
-    font-size: 16px;;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
