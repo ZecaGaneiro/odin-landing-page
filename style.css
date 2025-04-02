@@ -59,7 +59,6 @@ a {
 }
 
 .signup {
-    font-family: inherit;
     font-size: 14px;
     font-weight: bold;
     background-color: #3882f6;
@@ -165,7 +164,7 @@ a {
 }
 
 .section4 {
-    padding: 5% 10%;
+    padding: 5% 15%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -187,7 +186,6 @@ a {
 }
 
 .s4-rightbutton button{
-    font-family: inherit;
     font-size: 14px;
     background-color: #3882f6;
     color: white;
